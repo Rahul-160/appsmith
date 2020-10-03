@@ -24,7 +24,7 @@
 </div>
 
 ### Here's how you build something:
-1. Compose a page using pre-built UI components like table, charts, map viewers and forms.	
+1. Compose a page using pre-built UI components like tables, charts, map viewers and forms.	
 2. Connect the UI components to any REST API or databases like MySQL, Postgres, and MongoDB. Write any logic in JS.	
 3. Deploy the internal tool to a custom URL and invite users to sign in with their Google accounts. 
 
@@ -32,7 +32,7 @@
 
 ## 📺 Demo Video
 
-* [Build a tool in 5 minutes!](http://bit.ly/appsmith-demo-github)
+* [Build a tool in just 5 minutes!](http://bit.ly/appsmith-demo-github)
 
 ## 🗂 Example Applications
 
